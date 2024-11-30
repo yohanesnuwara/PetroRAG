@@ -10,3 +10,5 @@ Here, for example, a user comes to us and has few reports in his database and he
 I use 3 reports from the public Volve dataset; discovery report, completion report, and drilling report of well 15/9-F-15 A. 
 
 ![image](https://github.com/user-attachments/assets/8727874a-f23e-4679-9708-f878fa023c65)
+
+One of the challenge: These models seem not to analyze figures, tables, and charts. How can we do better?
