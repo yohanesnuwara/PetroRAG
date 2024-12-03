@@ -11,4 +11,13 @@ I use 3 reports from the public Volve dataset; discovery report, completion repo
 
 ![image](https://github.com/user-attachments/assets/a00c32fd-7441-4de0-8f32-a2a3bbc3c445)
 
-One of the challenge: These models seem not to analyze figures, tables, and charts. How can we do better?
+## Open for contribution/collaboration
+
+There are several challenges that I want to address:
+* Most legacy reports are scanned so it has the format of picture. How can we effectively apply OCR?
+* Reports have charts, tables, or even equations. How can we use multimodal LLM to understand these information?
+* Company reports are highly confidential. How can we use open-source alternatives of OpenAI models to store RAG privately? How are cost compared from one model to another?
+* How can we use knowledge graph from reports to help us summarize and find connections between reports?
+* Embedding vectors are huge and need storage as there are a lot of reports. How can we use different vector databases and scale up with hundreds or thousands of reports?
+
+Open for collaboration, if anyone has ideas on this :)
