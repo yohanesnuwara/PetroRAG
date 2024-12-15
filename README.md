@@ -17,6 +17,7 @@ While OpenAI is costly, I use an open source ColPali model (by Illuin Technology
 
 ![image](https://github.com/user-attachments/assets/38d685f2-c782-42e2-80cd-4d2d85956dd0)
 
+This is a free of charge alternative than OpenAI. The only limitation of using ColPali-Qwen2 is that **it requires a very powerful GPU** up to Ampere (GPU A100). You may need Colab Pro to run this. 
 
 ## Open for contribution/collaboration
 
