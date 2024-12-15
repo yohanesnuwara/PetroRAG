@@ -21,7 +21,7 @@ This is a free of charge alternative than OpenAI. The only limitation of using C
 
 ### Notebooks: 
 * [ColPali](https://github.com/yohanesnuwara/PetroRAG/blob/main/notebooks/colpali.ipynb) Using the pretrained ColPali to generate relevant pages from a collection of reports based on user query
-* [Generate Norwegian dataset for fine tuning](https://github.com/yohanesnuwara/PetroRAG/blob/main/notebooks/Generate_Finetuning_Dataset_ColPali_Norwegian.ipynb) Synthetic dataset for fine tuning pushed to HuggingFace space based on a Norwegian handbook of oil and gas
+* [Generate Norwegian dataset for fine tuning](https://github.com/yohanesnuwara/PetroRAG/blob/main/notebooks/Generate_Finetuning_Dataset_ColPali_Norwegian_QnA.ipynb) Synthetic dataset for fine tuning pushed to HuggingFace space based on a Norwegian handbook of oil and gas
 
 ## Open for contribution/collaboration
 
