@@ -19,6 +19,10 @@ While OpenAI is costly, I use an open source ColPali model (by Illuin Technology
 
 This is a free of charge alternative than OpenAI. The only limitation of using ColPali-Qwen2 is that **it requires a very powerful GPU** up to Ampere (GPU A100). You may need Colab Pro to run this. 
 
+### Notebooks: 
+* [ColPali](https://github.com/yohanesnuwara/PetroRAG/blob/main/notebooks/colpali.ipynb) Using the pretrained ColPali to generate relevant pages from a collection of reports based on user query
+* [Generate Norwegian dataset for fine tuning](https://github.com/yohanesnuwara/PetroRAG/blob/main/notebooks/Generate_Finetuning_Dataset_ColPali_Norwegian.ipynb) Synthetic dataset for fine tuning pushed to HuggingFace space based on a Norwegian handbook of oil and gas
+
 ## Open for contribution/collaboration
 
 There are several challenges that I want to address:
