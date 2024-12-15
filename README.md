@@ -27,5 +27,8 @@ There are several challenges that I want to address:
 * Company reports are highly confidential. How can we use open-source alternatives of OpenAI models to store RAG privately? How are cost compared from one model to another?
 * How can we use knowledge graph from reports to help us summarize and find connections between reports?
 * Embedding vectors are huge and need storage as there are a lot of reports. How can we use different vector databases and scale up with hundreds or thousands of reports?
+* How to finetune RAG with a knowledge to improve the answer for example to teach the system with Petroleum Engineering knowledge?
+* How to represent multilingual RAG so that it understand reports written in Norwegian for example?
+* LLM need a very huge computational power such as the top-notch GPU. Can we use a smaller model - Small Language Model (SLM)?
 
 Open for collaboration, if anyone has ideas on this :)
