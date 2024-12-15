@@ -36,3 +36,10 @@ There are several challenges that I want to address:
 * LLM need a very huge computational power such as the top-notch GPU. Can we use a smaller model - Small Language Model (SLM)?
 
 Open for collaboration, if anyone has ideas on this :)
+
+## References
+
+1. Finetuning ColPali with LoRA - https://github.com/tonywu71/colpali-cookbooks/blob/main/examples/finetune_colpali.ipynb
+2. Generate data for finetuning - https://danielvanstrien.xyz/posts/post-with-code/colpali/2024-09-23-generate_colpali_dataset.html
+3. Vespa on Docker - https://pyvespa.readthedocs.io/en/latest/getting-started-pyvespa.html#Deploy-the-Vespa-application
+4. ColPali on Vespa - https://pyvespa.readthedocs.io/en/latest/examples/visual_pdf_rag_with_vespa_colpali_cloud.html
