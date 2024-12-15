@@ -11,6 +11,13 @@ I use 3 reports from the public Volve dataset; discovery report, completion repo
 
 ![image](https://github.com/user-attachments/assets/a00c32fd-7441-4de0-8f32-a2a3bbc3c445)
 
+## RAG with ColPali and Qwen2
+
+While OpenAI is costly, I use an open source ColPali model (by Illuin Technology) and Qwen2 model (by Alibaba Group) to build a multimodal RAG that can understand reports with charts and tables. 
+
+![image](https://github.com/user-attachments/assets/38d685f2-c782-42e2-80cd-4d2d85956dd0)
+
+
 ## Open for contribution/collaboration
 
 There are several challenges that I want to address:
